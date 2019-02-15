@@ -1,3 +1,0 @@
-msg: test message for microservices
-msg1= test message for microservices
-msg2: test message for microservices
